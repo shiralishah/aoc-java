@@ -1,4 +1,6 @@
-src/resources
-src/resources/*
+resources
+resources/*
 .idea
 aoc-java.iml
+out
+out/*
