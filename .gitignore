@@ -4,3 +4,4 @@ resources/*
 aoc-java.iml
 out
 out/*
+src/adventofcode/Template.java
